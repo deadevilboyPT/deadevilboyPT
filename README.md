@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing my programming skills. Computer science has been my hobby since I remember. I already made projects in Object Pascal, C++, Java, Javascript, PHP, CSS, HTML to make my life easier.
 - 🌱 I’m currently attesting my knowledge in C++.
 - 💞️ I’m looking to collaborate on any programming project.
-- 📫 How to reach me ...
+- 📫 How to reach me ... LINKEDIN Account: https://www.linkedin.com/in/joao-carva/
 
 <!---
 deadevilboyPT/deadevilboyPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
